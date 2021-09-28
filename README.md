@@ -8,6 +8,6 @@
 apt update && apt upgrade -y && apt install git -y && git clone https://github.com/Toxic-Omega/PSC-Per-Second-Calculator && cd PSC-Per-Second-Calculator && python3 psc.py
 ```
 # Screenhots
-<p align="center">
+<p align="left">
   <img width="312" height="336" src="https://github.com/Toxic-Omega/PSC-Per-Second-Calculator/blob/main/main.png">
 </p>
