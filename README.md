@@ -1,6 +1,7 @@
 #PSC (Per Second Calculator)
-<img width="200" height="200" src="https://icons-for-free.com/iconfiles/png/512/calculator-131994967672059924.png">
-
+<p align="left">
+  <img width="200" height="200" src="https://icons-for-free.com/iconfiles/png/512/calculator-131994967672059924.png">
+</p>
 ##
 # What Is QuickTransfer?
 #### Quick Transfer Is A Tool Written In Python3 That Allows The User To Download Youtube Playlists , Youtube Videos & Other Files And Access The Downloaded Files In A Web Browser
