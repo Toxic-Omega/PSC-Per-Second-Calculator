@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="950" height="73" src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/calculator.png">
+  <img width="950" height="73" src="https://icons-for-free.com/iconfiles/png/512/calculator-131994967672059924.png">
 </p>
 
 ##
