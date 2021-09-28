@@ -5,7 +5,7 @@
 
 # One Line Install
 ```sh
-'apt update && apt upgrade -y && apt install git -y && git clone https://github.com/Toxic-Omega/PSC-Per-Second-Calculator && cd PSC-Per-Second-Calculator && python3 psc.py'
+apt update && apt upgrade -y && apt install git -y && git clone https://github.com/Toxic-Omega/PSC-Per-Second-Calculator && cd PSC-Per-Second-Calculator && python3 psc.py
 ```
 # Screenhots
 <p align="center">
