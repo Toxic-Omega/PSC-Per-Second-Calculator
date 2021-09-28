@@ -9,5 +9,5 @@ apt update && apt upgrade -y && apt install git -y && git clone https://github.c
 ```
 # Screenhots
 <p align="center">
-  <img width="606" height="271" src="https://github.com/Toxic-Omega/PSC-Per-Second-Calculator/blob/main/main.png">
+  <img width="312" height="336" src="https://github.com/Toxic-Omega/PSC-Per-Second-Calculator/blob/main/main.png">
 </p>
