@@ -1,7 +1,6 @@
 import re
 import os
 import time
-import colorama
 
 print("""
 __________  __________________  
